@@ -5,7 +5,8 @@
 
 > News presented through hidden sources and grouped by specific topic. Uses a weighing system to calculate the specific left or right leaning for the user based on user feedback on news articles. 
 
-> Made during SacHacks 2018 by four individuals (Stanley Lee, Jeffrey Ha, Deric Kwok, Jason Tran).
+> Made during SacHacks 2018.
+>> Members: Jeffrey Ha, Stanley Lee, Deric Kwok, Jason Tran
 
 ----
 ## usage
